@@ -1,12 +1,13 @@
 ## Hey, I am Amali! 👋
 
-I am curently working as Senior Associate (Production) while Studying at UCSC as BIT undergrad.
-For more than 3 years, I have worked in diverse industries, including **Banking and Business Process Outsourcing**.
-Collaborating in these industries has given me the opportunity to work with diverse teams from various cultural backgrounds, and I’ve truly enjoyed the experience.
+As a BIT undergraduate at UCSC, I had the opportunity to gain hands-on industry experience while working as a Senior Associate (Production). 
+Over the past 3+ years, I’ve worked across diverse sectors, including **Banking and Business Process Outsourcing (BPO)**, which has allowed me to collaborate with multicultural teams and develop a strong foundation in professional communication, adaptability, and teamwork.
+
+My journey so far has helped me grow both personally and professionally, while reinforcing my passion for working in dynamic, fast-paced environments.
 
 ### Tech Stack & Tools
 
-- 🚀 Currently developing fullstack applications using **Spring** with **HTML, CSS, Bootstrap etc.**
+- 🚀 Currently developing fullstack applications using **Spring** with **HTML, CSS, Java, Bootstrap etc.**
 - ⚙️ Application version controlling on **Git**
 
 ### Reach Me Via...
