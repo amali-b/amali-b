@@ -25,6 +25,8 @@ My journey so far has helped me grow both personally and professionally, while r
 
   ![Static Badge](https://img.shields.io/badge/Code-Java-informational?logo=openjdk&color=000000)
   ![Static Badge](https://img.shields.io/badge/Code-Spring-informational?logo=spring&color=6DB33F)
+  ![Static Badge](https://img.shields.io/badge/Code-Nodejs-informational?logo=nodedotjs&color=339933)
+  ![Static Badge](https://img.shields.io/badge/Code-React-informational?logo=react&color=20232A)
   ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&color=F7DF1E)
   ![Static Badge](https://img.shields.io/badge/Code-HTML5-informational?logo=html5&color=E34F26)
   ![Static Badge](https://img.shields.io/badge/Code-Bootstrap-informational?logo=bootstrap&color=7952B3)
