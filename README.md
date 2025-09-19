@@ -18,6 +18,10 @@ I am currently learning React and Tailwind CSS to create beautiful web applicati
   ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&color=F7DF1E)
   ![Static Badge](https://img.shields.io/badge/Code-HTML5-informational?logo=html5&color=E34F26)
   ![Static Badge](https://img.shields.io/badge/Code-Bootstrap-informational?logo=bootstrap&color=7952B3)
+  ![Static Badge](https://img.shields.io/badge/Code-Tailwind_CSS-informational?logo=tailwind-css&color=38B2AC)
+  ![Static Badge](https://img.shields.io/badge/Code-Vite-informational?logo=vite&color=B73BFE)
+  
+  ![Static Badge](https://img.shields.io/badge/Code-ChartJs-informational?logo=chartdotjs&color=FF6384)
   ![Static Badge](https://img.shields.io/badge/Code-Python-informational?logo=python&color=3776AB)
 
   ![Static Badge](https://img.shields.io/badge/SQL-MySQL-informational?logo=mysql&color=4479A1)
