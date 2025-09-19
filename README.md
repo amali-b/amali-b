@@ -65,7 +65,7 @@ Create a beautiful modern Portfolio website with responsive animations, dark Mod
 📧 **Contact Section** : Social icons + responsive contact form with toast notifications
 🚀 **One-Click Deployment** : Easily host your site with Vercel and GitHub
 
-#### ⚙️ Tech Stack
+#### ⚙️ Technologies
 
 - React – Component-based UI development
 - Vite – Lightning-fast build tool
