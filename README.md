@@ -54,6 +54,10 @@ This system is designed to streamline and automate the core operations of Bando 
 - MySQL
 - Springboot
 
+#### 🔗 Take a Look
+
+- <a href="https://github.com/amali-b/Integrated-Restaurant-Management.git">Github Repo</a>
+
 ### Personal Portfolio
 
 Create a beautiful modern Portfolio website with responsive animations, dark Mode and project showcases.
@@ -78,13 +82,19 @@ Create a beautiful modern Portfolio website with responsive animations, dark Mod
 - Radix UI – Accessible component primitives
 - TypeScript (optional) – Type safety and tooling
 
+#### 🔗 Take a Look
+
+- <a href="https://modern-personal-portfolio-alpha.vercel.app">Amali Portfolio</a>
+
+- <a href="https://github.com/amali-b/my-portfolio.git">Github Repo</a>
+
 ## Reach Me Via...
 
 <a href="https://www.linkedin.com/in/amali-abeysekara/">
-  <img src="https://github.com/amali-b/amali-b/blob/main/linkedin-logo.png" alt="LinkedIn" width="40" height="40">
+  <img src="https://github.com/amali-b/amali-b/blob/main/linkedin-logo.png" alt="LinkedIn" width="30" height="30">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:amalibhuvisara@gmail.com">
-  <img src="https://github.com/amali-b/amali-b/blob/main/gmail-logo.png" alt="Gmail" width="40" height="40">
+  <img src="https://github.com/amali-b/amali-b/blob/main/gmail-logo.png" alt="Gmail" width="30" height="30">
 </a>
 
 ## Stats Summary
