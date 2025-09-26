@@ -31,6 +31,7 @@ I am currently learning React and Tailwind CSS to create beautiful web applicati
 - 🚀 DevOps – CI/CD
 
   ![Static Badge](https://img.shields.io/badge/Tools-Git-informational?logo=git&color=F05032)
+  ![Static Badge](https://img.shields.io/badge/Tools-Vercel-informational?logo=vercel&color=000000)
 
 ## Featured Projects
 
@@ -50,7 +51,7 @@ This system is designed to streamline and automate the core operations of Bando 
 
 - HTML/CSS
 - Java
-- JavaSdript
+- JavaScript
 - MySQL
 - Springboot
 
@@ -75,18 +76,43 @@ Create a beautiful modern Portfolio website with responsive animations, dark Mod
 
 #### ⚙️ Technologies
 
-- React – Component-based UI development
-- Vite – Lightning-fast build tool
-- TailwindCSS – Utility-first CSS for styling
-- Lucide Icons – Clean and beautiful icon pack
-- Radix UI – Accessible component primitives
-- TypeScript (optional) – Type safety and tooling
+- React
+- Vite
+- TailwindCSS
+- Lucide Icons
+- Radix UI
+- TypeScript
 
 #### 🔗 Take a Look
 
 - <a href="https://modern-personal-portfolio-alpha.vercel.app">Amali Portfolio</a>
 
 - <a href="https://github.com/amali-b/my-portfolio.git">Github Repo</a>
+
+### Todo-List App
+
+Create a fully functional Todo-list App with beautiful interface and light/dark mode.
+
+#### ⚡️ Fetures
+
+- 🌓 Light/Dark Mode Toggle : Save theme preference in local storage with beautiful transitions
+- 🌠 Glass Screen Background : Card with a glass screen background
+- 🗓️ Add/Delete Todos : Adding todos with time and removing todos
+- 📱 Responsive Navigation : Desktop and mobile menus with glassmorphism
+- 🚀 One-Click Deployment : Easily host your site with Vercel and GitHub
+
+#### ⚙️ Technologies
+
+- React
+- Vite
+- TailwindCSS
+- Lucide Icons
+
+#### 🔗 Take a Look
+
+- <a href="https://todo-list-app-sage-iota.vercel.app/">Todo-List</a>
+
+- <a href="https://github.com/amali-b/todo-list.git">Github Repo</a>
 
 ## Reach Me Via...
 
