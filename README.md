@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amali Abeysekera
 
-I'm a fresh graduate at UCSC and I had the opportunity to gain hands-on industry experience while working as a Senior Associate (Production). 
+I'm a BIT graduate at UCSC and I had the opportunity to gain hands-on industry experience while working as a Senior Associate (Production). 
 Over the past 3+ years, I’ve worked across diverse sectors, including **Banking and Business Process Outsourcing (BPO)**, which has allowed me to collaborate with multicultural teams and develop a strong foundation in professional communication, adaptability, and teamwork.
 
 My journey so far has helped me grow both personally and professionally, while reinforcing my passion for working in dynamic, fast-paced environments.
