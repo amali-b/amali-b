@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Amali Abeysekera
 
-- 💻 Developer | 🚀 Lifelong Learner
-- ⚛️ React • Node.js • MySQL
-- 🌱 Exploring new technologies and building projects.
-- ✨ Turning ideas into code, one project at a time!
+💻 Developer | 🚀 Lifelong Learner
+⚛️ React • Node.js • MySQL
+🌱 Exploring new technologies and building projects.
+✨ Turning ideas into code, one project at a time!
 
 ## Skills & Expertise
 
