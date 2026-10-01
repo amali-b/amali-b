@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Amali Abeysekera
 
-I'm an Associate Software Engineer at Asipiya Soft Solutions. I had the opportunity to gain hands-on industry experience while working as a Senior Associate (Production). 
-Over the past 3+ years, I’ve worked across diverse sectors, including **Banking and Business Process Outsourcing (BPO)**, which has allowed me to collaborate with multicultural teams and develop a strong foundation in professional communication, adaptability, and teamwork.
-
-My journey so far has helped me grow both personally and professionally, while reinforcing my passion for working in dynamic, fast-paced environments.
+💻 Developer | 🚀 Lifelong Learner
+⚛️ React • Node.js • MySQL
+🌱 Exploring new technologies and building projects.
+✨ Turning ideas into code, one project at a time!
 
 ## Skills & Expertise
 
