@@ -1,9 +1,18 @@
 # Hi there 👋, I'm Amali Abeysekera
 
+<<<<<<< HEAD
 💻 Developer | 🚀 Lifelong Learner
 ⚛️ React • Node.js • MySQL
 🌱 Exploring new technologies and building projects.
 ✨ Turning ideas into code, one project at a time!
+=======
+I'm a BIT graduate at UCSC and I had the opportunity to gain hands-on industry experience while working as a Senior Associate (Production). 
+Over the past 3+ years, I’ve worked across diverse sectors, including **Banking and Business Process Outsourcing (BPO)**, which has allowed me to collaborate with multicultural teams and develop a strong foundation in professional communication, adaptability, and teamwork.
+
+My journey so far has helped me grow both personally and professionally, while reinforcing my passion for working in dynamic, fast-paced environments.
+>>>>>>> parent of abfaf33 (Revise introduction and current learning focus)
+
+I am currently learning MERN stack and Tailwind CSS to create full stack web applications.My goal is to leverage my technical expertise and proven track record to contribute to innovative software development teams.
 
 ## Skills & Expertise
 
